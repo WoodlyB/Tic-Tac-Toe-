@@ -1,1 +1,1 @@
-console.log("Check ");
+console.log("Check  Tic tac toe");
